@@ -7,8 +7,11 @@
 - [Lucas] (http://github.com/zed118)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Amit singh](https://github.com/technicalamit8055)
+
 - [Franco Lu](https://github.com/franco2002lu)
 - [Pranay Choubey](https://github.com/CaesarMouse)
+
+- [Fasal Thoufeeq](https://github.com/FasalThoufeeq)
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
 - [César Henrique](https://github.com/cesarhenrq)
